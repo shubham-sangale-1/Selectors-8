@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main-container{
+    height: 70vh;
+    /* background-color: red; */
+    width: 100%;
+}
+.logos{
+    width: 150px;
+    height: 100%;
+    /* background-color: lime; */
+}
+.logos img{
+    width: 56px;
+}
+.icons ul li{
+    color: black;
+    margin-bottom: 25px;
+}
+.footer{
+    width: 1220px;
+    height: 60%;
+    background-color:#3E2B1A;
+}
+.ft{
+    width: 33.33%;
+    height: 100%;
+    /* background-color: purple; */
+}
